@@ -1,0 +1,6 @@
+{
+  "name": "3D Multiplayer Car Racing Game",
+  "description": "A high-performance 3D car racing game with single-player solo time trials, multiple customizable car templates, sideways drift scoring, dynamic audio, weather cycles, garage engine upgrades, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
